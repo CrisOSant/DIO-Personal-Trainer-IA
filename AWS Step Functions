@@ -1,0 +1,17 @@
+Resumo sobre os pontos mais importantes apresentados em aula sobre a AWS Step Functions: 
+
+A AWS Step Functions é um serviço da Amazon Web Services que ajuda a coordenar e automatizar diferentes tarefas ou funções dentro de um projeto. 
+Esse serviço permite criar fluxos de trabalho definidos visualmente, conectando diferentes serviços e processos. 
+Tudo isso é feito por meio de uma interface simples, onde podemos desenhar as etapas do projeto como um diagrama, facilitando a compreensão de todo o processo.
+
+Uma das grandes vantagens da AWS Step Functions é a sua capacidade de aumentar a produtividade. 
+Como os fluxos de trabalho são criados de forma automatizada, o tempo gasto em tarefas repetitivas é reduzido. 
+Além disso, AWS Step Functions permite que diferentes partes de um sistema se comuniquem de forma eficiente e organizada, eliminando a necessidade de desenvolver código complexo para gerenciar esses processos.
+
+Outro ponto importante é que, por ser visual, a AWS Step Functions facilita muito a visualização e o monitoramento do projeto. 
+O diagrama que é gerado permite identificar rapidamente o que está acontecendo em cada etapa, ajudando na detecção de problemas e na otimização dos processos. 
+Isso torna a gestão do projeto muito mais clara e organizada.
+
+Para o mercado, esse recurso é essencial porque permite às empresas criarem soluções escaláveis e automatizadas de maneira mais eficiente. 
+Isso resulta em um ganho significativo de tempo e redução de erros, o que, no final das contas, impacta positivamente a qualidade do produto ou serviço entregue.
+No entanto, devemos nos atentar aos valores e a quais funções estamos utilizando para poder precificar de forma adequada os nossos projetos dentro da plataforma.
